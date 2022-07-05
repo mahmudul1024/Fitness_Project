@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    transition: 0.8ms;
+    scroll-behavior: smooth;
+
+
+}
+
+
+
+.menu_container{
+display: flex;
+justify-content: space-evenly;
+background-color: antiquewhite;
+
+}
+
+.company_logo{
+    margin-left: 100px;
+    font-size: 53px;   
+    font-weight: bold;
+    border-right: .10em solid #FF8D8D;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: .4rem;
+    animation: demo-typewriter 3s steps(30, end), demo-cursor 1s step-end infinite;
+
+
+
+
+ 
+}
+
+.menu_items{
+    display: flex;
+    margin-right: 10px;
+}
+
+.menu_items li{
+    padding : 15px;
+    list-style: none;
+
+}
