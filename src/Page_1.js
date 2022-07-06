@@ -39,17 +39,48 @@ const Page_1 = () => {
 </div>
 
 
+<h1 className='title_2'>Take a Look</h1>
 
 <div className='section_2'>
   <div className='card1'>
     <div className='card_description'>
-        <img src=''></img>
+        <img className='gym_icon' src='images/package/icon1.png'></img>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur
             ipsum labore suscipit cumque repellat modi vitae sunt assumenda at
             dicta facere quam, fugit consequatur ipsa mollitia repellendus
             nulla, incidunt maxime................</p>
       <a href=''>More</a>
     </div>
+   
+    
+  </div>
+
+
+  <div className='card1'>
+    <div className='card_description'>
+        <img className='gym_icon' src='images/package/icon1.png'></img>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur
+            ipsum labore suscipit cumque repellat modi vitae sunt assumenda at
+            dicta facere quam, fugit consequatur ipsa mollitia repellendus
+            nulla, incidunt maxime................</p>
+      <a href=''>More</a>
+    </div>
+   
+    
+  </div>
+
+
+  <div className='card1'>
+    <div className='card_description'>
+        <img className='gym_icon' src='images/package/icon1.png'></img>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur
+            ipsum labore suscipit cumque repellat modi vitae sunt assumenda at
+            dicta facere quam, fugit consequatur ipsa mollitia repellendus
+            nulla, incidunt maxime................</p>
+      <a href=''>More</a>
+    </div>
+   
+    
   </div>
 </div>
 
