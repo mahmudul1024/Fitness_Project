@@ -84,6 +84,39 @@ const Page_1 = () => {
   </div>
 </div>
 
+
+
+<h1 className='about_title'>ABOUT US</h1>
+
+<div className='About_container'>
+<div className='about_left'>
+    <div className='workout_image'>
+      <img src='images/about1.jpg'></img>
+      <img src='images/about2.jpg'></img>
+    </div>
+<div className='about_right'>
+    <div className='about_description'>
+      <h1>We Use Experience To Achieve The Physique You Deserve</h1>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore
+            libero possimus fugiat est nostrum perferendis dolores corporis
+            exercitationem porro fuga.</p>
+
+      <ul>
+          <li>Duis quis odio quis dui sagittis laoreet.</li>
+          <li>Duis quis odio quis dui sagittis laoreet.</li>
+          <li>Duis quis odio quis dui sagittis laoreet.</li>
+          <li>Duis quis odio quis dui sagittis laoreet.</li>
+      </ul>
+    </div>
+    <button className='banner_btn'>ABOUT US</button>
+  </div>
+</div>
+
+
+
+
+</div>
+
     </>
   )
 }

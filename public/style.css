@@ -110,3 +110,29 @@ background-color: antiquewhite;
 .gym_icon{
     width: 50px;
 }
+
+.About_container{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+
+.about_left{
+    display: flex;
+}
+
+.workout_image{
+    display: flex;
+}
+
+.workout_image img{
+    width: 300px;
+    height: 550px;
+    transform: skewY(-15deg);
+    margin-top: 50px;
+
+}
+
+.about_right{
+    width: 700px;
+}
