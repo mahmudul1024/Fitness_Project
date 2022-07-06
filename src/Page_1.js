@@ -115,7 +115,24 @@ const Page_1 = () => {
 
 
 
+
 </div>
+
+
+
+<div className='workout_section'>
+
+<div className='work_left'>
+<h1 className='workout_title'>WORKOUT INQUIRY</h1>
+</div>
+
+<div className='work_right'>
+<button className='chat'>Lets Chat</button>
+</div>
+
+
+</div>
+
 
     </>
   )

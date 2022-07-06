@@ -115,6 +115,7 @@ background-color: antiquewhite;
     display: flex;
     background-color: black;
     color: white;
+    margin-bottom: 70px;
 }
 
 .about_left{
@@ -135,4 +136,27 @@ background-color: antiquewhite;
 
 .about_right{
     width: 700px;
+}
+
+.workout_section{
+    width: 650px;
+    height: 200px;
+    background-image: url("images/shape/Group_33094_1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.chat{
+    padding: 12px 25px;
+    background-color: rgb(248, 246, 246);
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    font-weight: 300;
 }
