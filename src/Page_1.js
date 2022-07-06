@@ -14,6 +14,45 @@ const Page_1 = () => {
 
                                 </div>
     </nav>
+<div className='banner_container'>
+    <div className='banner_left'>
+      <div className='banner_description'>
+        <p className='banner_text'>Lorem ipsum dolor sit amet.</p>
+        <h1 className='title_1'>A Reason of Your Health Join Today</h1>
+        <p className='text'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum
+            perferendis eligendi ex quae amet libero velit ipsa,</p>
+      
+        <button className='banner_btn'>Learn More</button>
+      </div>
+      
+    </div>
+
+    <div className='banner_right'>
+        <div className='banner_img'>
+        <img src='images/home-bg.png'></img>
+
+        </div>
+    </div>
+
+
+
+</div>
+
+
+
+<div className='section_2'>
+  <div className='card1'>
+    <div className='card_description'>
+        <img src=''></img>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tenetur
+            ipsum labore suscipit cumque repellat modi vitae sunt assumenda at
+            dicta facere quam, fugit consequatur ipsa mollitia repellendus
+            nulla, incidunt maxime................</p>
+      <a href=''>More</a>
+    </div>
+  </div>
+</div>
+
     </>
   )
 }
